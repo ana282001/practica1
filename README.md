@@ -1,11 +1,5 @@
 # Practica 1
 
-**Autores** Ana Zabalo, Ana Salmerón 
-
-**Correo electrónico:** ana.zabalo@cuenf.edu , ana.salmeron@cunef.edu
-
-**Directorio GitHub:** https://github.com/ana282001/practica1
-
 ## Notebooks Desarrollados
 
 A lo largo de este EDA, hemos llevado a cabo distintos notebooks para el analisis
